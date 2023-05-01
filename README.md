@@ -3,7 +3,12 @@
 Este control es verdaderamente útil, si necesitamos comparar el valor de un campo con una expresión regular , este control aplica esencialmente si queremos comparar el formato de una dirección de correo electrónico,una fecha o un código postal entre o bien para buscar un patrón dentro del texto.
 
 
-Lo instalamos: copiamos el ensamblado a la carpeta bin, ejecutamos xsp y abrimos el navegador con la dirección http://localhost:8080/RegularExpression.aspx. Al ejecutar el programa se mostrará como en la siguiente imagen.
+Lo instalamos: copiamos el ensamblado a la carpeta bin, ejecutamos xsp y abrimos el navegador con la dirección 
+<pre>
+http://localhost:8080/RegularExpression.aspx. 
+</pre>
+
+Al ejecutar el programa se mostrará como en la siguiente imagen.
 
 Propiedades del control RegularExpressionValidator
 
