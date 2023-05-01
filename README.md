@@ -10,9 +10,9 @@ http://localhost:8080/RegularExpression.aspx.
 
 Al ejecutar el programa se mostrará como en la siguiente imagen.
 
-Propiedades del control RegularExpressionValidator
+<h3>Propiedades del control RegularExpressionValidator</h3>
 
-display Esta propiedad puede tener 3 valores: Static es la propiedad predeterminada, reserva un espacio suficiente en la página para mostrar el mensaje de error.Dynamic el espacio para mostrar el mensaje no se reserva, cuando el mensaje se despliega se desplaza el contenido existente en la página. None el mensaje no será desplegado en el lugar del control sino en el control ValidationSummary si se localiza en la misma página.
+<strong>Display:</strong> Esta propiedad puede tener 3 valores: Static es la propiedad predeterminada, reserva un espacio suficiente en la página para mostrar el mensaje de error.Dynamic el espacio para mostrar el mensaje no se reserva, cuando el mensaje se despliega se desplaza el contenido existente en la página. None el mensaje no será desplegado en el lugar del control sino en el control ValidationSummary si se localiza en la misma página.
 <br>
 <strong>ValidatorExpression:</strong> El valor de la expresión regular con la que se compara el valor del control a validar.
 
