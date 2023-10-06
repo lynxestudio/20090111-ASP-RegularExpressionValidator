@@ -1,6 +1,6 @@
 <%@Page Language="C#" AutoEventWireup="false" 
 CodeBehind="RegularExpression.aspx.cs" 
-Inherits="blog.listings.RegularExpression"%>
+Inherits="Samples.Repo.RegularExpression"%>
 <html>
 <head>
 <title>Expresiones Regulares</title>

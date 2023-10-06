@@ -2,7 +2,7 @@ using System;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace blog.listings
+namespace Samples.Repo 
 {
 public class RegularExpression : Page {
 	protected TextBox txtDate, txtCp, 
