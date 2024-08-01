@@ -24,6 +24,6 @@ Al ejecutar el programa se mostrará como en la siguiente imagen.
 </p>
 <p align="justify">
 <strong>ValidatorExpression:</strong> El valor de la expresión regular con la que se compara el valor del control a validar.
-<strong>controlToValidate:<strong> El identificador del control donde obtenemos el valor para validar.
+<strong>controlToValidate:</strong> El identificador del control donde obtenemos el valor para validar.
 <strong>ErrorMessage:</strong> El texto del mensaje de error a desplegar
 </p>
